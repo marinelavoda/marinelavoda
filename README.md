@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Data Science and Economics double major at Minerva University. I'm passionate about turning ideas into impactful solutions and aspire to become a Project Manager who bridges the gap between data, people, and product.
+I am a Data Science and Economics double major at Minerva University. I'm passionate about turning ideas into impactful solutions and aspire to become a Product Manager who bridges the gap between data, people, and product.
 
 
 
